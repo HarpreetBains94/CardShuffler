@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CardShuffler:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CardShuffler_jar</output-path>
+    <root id="archive" name="CardShuffler.jar">
+      <element id="module-output" name="CardShuffler" />
+    </root>
+  </artifact>
+</component>
